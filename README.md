@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NewtonBl
-- 👀 I’m interested in expanding my knowledge of R and Python for general data analysis and bioinformatics
-- 🌱 I’m currently learning R
+- 👀 I’m interested in expanding my knowledge of R and Python for general data analysis and bioinformatics.
+- 🌱 I’m currently learning R and Python
 - 📫 How to reach me: bnewton_92@hotmail.com
 
 <!---
