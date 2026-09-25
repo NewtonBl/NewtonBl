@@ -1,6 +1,6 @@
 Welcome, and thanks for stopping by!
 
-There are many repositories that are currently private.
+There are many repositories that are currently private, several that display my skills and ability to write more complex programs.
 
 If you would like more information about my portfolio or experience, please reach out.
 
