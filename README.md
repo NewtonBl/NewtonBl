@@ -1,6 +1,7 @@
 Welcome, and thanks for stopping by!
 
 There are many repositories that are currently private.
+
 If you would like more information about my portfolio or experience, please reach out.
 
 <!---
